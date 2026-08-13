@@ -14,7 +14,7 @@ I’m a cybersecurity professional specializing in **cloud security, AI security
 * AI Risk & Threat Modeling
 
 # Certifications
-CISA • GIAC GCLD • CCSK • CompTIA SecAI+ • CompTIA CySA+ • CompTIA Security+ • CompTIA Network+ • IAPP AIGP • AWS Certified Solutions Architect – Associate • AWS Certified Cloud Practitioner • AWS Certified AI Practitioner • Microsoft Azure AI Fundamentals • ISC2 CC • KCNA
+CISA • GIAC GCLD • CCSK • CompTIA SecAI+ • IAPP AIGP • AWS Certified Security • AWS Certified Solutions Architect – Associate • AWS Certified Cloud Practitioner • AWS Certified AI Practitioner • Microsoft Azure AI Fundamentals • Microsoft Certified: Security, Compliance, and Identity Fundamentals
 
 # Awards & Recognition
 
