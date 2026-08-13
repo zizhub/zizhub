@@ -18,20 +18,20 @@ CISA • GIAC GCLD • CCSK • CompTIA SecAI+ • CompTIA CySA+ • CompTIA Sec
 
 # Awards & Recognition
 
-2026 Alum of the Year — Metropolitan State University
-Women of Influence — One to Watch — Executive Women's Forum, 2024
-Women in Security Honoree — Security Magazine, 2024
-Most Inspiring Women in Cyber — IT Security Guru, 2024
-Top 25 Cybersecurity Leader — CS Hub, 2024
-40 Under 40 — Georgia Tech Alumni
-40 Under 40 — Minneapolis/St. Paul Business Journal
-40 Under 40 — The Cyber Express
-Ivan Allen Jr. Legacy Award — Georgia Tech, 2023
-SANS Difference Makers Award — Book of the Year — 2023
-Applaud Her Award in Security — Women Who Code
-Women in IT Security — Cyber Advocate — SC Media, 2022
-CyberScoop 50 — Most Inspiring Up-and-Comer — 2022
-WaveMaker Award — Uncharted Territory — TeamWomen, 2021
+* 2026 Alum of the Year — Metropolitan State University
+* Women of Influence — One to Watch — Executive Women's Forum, 2024
+* Women in Security Honoree — Security Magazine, 2024
+* Most Inspiring Women in Cyber — IT Security Guru, 2024
+* Top 25 Cybersecurity Leader — CS Hub, 2024
+* 40 Under 40 — Georgia Tech Alumni
+* 40 Under 40 — Minneapolis/St. Paul Business Journal
+* 40 Under 40 — The Cyber Express
+* Ivan Allen Jr. Legacy Award — Georgia Tech, 2023
+* SANS Difference Makers Award — Book of the Year — 2023
+* Applaud Her Award in Security — Women Who Code
+* Women in IT Security — Cyber Advocate — SC Media, 2022
+* CyberScoop 50 — Most Inspiring Up-and-Comer — 2022
+* WaveMaker Award — Uncharted Territory — TeamWomen, 2021
 
 ## Currently Exploring
 
